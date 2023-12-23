@@ -1,0 +1,23 @@
+th {
+  background-color: rgb(241, 10, 241) !important;
+  color: white;
+  border-right: 2px solid white;
+}
+
+.profile td {
+  border: 1px solid black;
+}
+
+.detail td {
+  border: 1px solid black;
+}
+
+.detail th {
+  background-color: transparent !important;
+  color: black;
+  border: 1px solid black;
+}
+
+td{
+  text-align: center;
+}
